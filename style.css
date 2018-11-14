@@ -1,0 +1,26 @@
+body{
+  font-family: Helvetica, sans-serif;
+}
+nav{
+  display: block;
+  position:fixed;
+  background-color: #C0D2E6;
+  width: 150px;
+  height: 100%;
+}
+div{
+  margin-left: 200px;
+}
+div#about{
+  width: 500px;
+  height: 100px;
+  text-align: left;
+}
+div#gallery{
+  text-align: left;
+}
+div#contacts{
+  text-align: left;
+}
+
+
