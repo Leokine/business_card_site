@@ -1,10 +1,11 @@
 body{
   font-family: Helvetica, sans-serif;
+  color: #393041;
 }
 nav{
   display: block;
   position:fixed;
-  background-color: #C0D2E6;
+  background-color: #95BBBE;
   width: 150px;
   height: 100%;
 }
@@ -12,15 +13,18 @@ div{
   margin-left: 200px;
 }
 div#about{
+  padding-top: 20px;
   width: 500px;
-  height: 100px;
+  height: 250px;
   text-align: left;
 }
 div#gallery{
   text-align: left;
+  height: 700px;
 }
 div#contacts{
   text-align: left;
+  height: 300px;
 }
 
 
